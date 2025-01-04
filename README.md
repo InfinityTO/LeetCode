@@ -1,6 +1,6 @@
-# Leetcode Solutions
+# LeetCode Solutions
 
-Welcome to the **Leetcode** repository! 🚀
+Welcome to the **LeetCode** repository! 🚀
 
 This repository contains my solutions to various problems from [Leetcode](https://leetcode.com/). It serves as a personal archive and a way to track my progress in competitive programming and algorithmic problem-solving.
 
