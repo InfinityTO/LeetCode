@@ -9,6 +9,6 @@ This repository contains my solutions to various problems from [LeetCode](https:
 - Each problem is categorized by:
   - **Difficulty**: Easy, Medium, or Hard
   - **Topic**: Arrays, Strings, Dynamic Programming, Graphs, etc.
-  - **Language**: Primary language used for solving problem 
+  - **Language**: Primary language used for solving a problem 
 
 
