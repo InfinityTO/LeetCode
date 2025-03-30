@@ -15,8 +15,8 @@ This repository contains my solutions to various problems from __LeetCode__. It 
 | 🟥 Hard    | 0           |
 ---
 
-
-# 📝 Detailed Problem List
+ 
+# 📝 Problem Links
 
 ### 🔹 Easy Problems
 --- 
