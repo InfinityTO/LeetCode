@@ -1,6 +1,6 @@
 # 📌 LeetCode Solutions
 
-Welcome to my **LeetCode Solutions** repository 🚀 
+Welcome to my **LeetCode Solutions** repository! 🚀 
 
 This repository contains my solutions to various problems from __LeetCode__. It serves as a personal archive and a way to track my progress in learning data structures and algorithms, and solving problems.
 
