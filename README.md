@@ -1,12 +1,10 @@
-# 📌 LeetCode Solutions
+# <div align='center'>LeetCode Solutions</div>
 
 Welcome to my **LeetCode Solutions** repository! 🚀 
 
 This repository contains my solutions to various problems from __LeetCode__. It serves as a personal archive and a way to track my progress in learning data structures and algorithms, and solving problems.
 
----
-
-## ✅ Summary
+### Summary
 
 | Difficulty | Total Solved |
 |------------|-------------|
@@ -15,8 +13,7 @@ This repository contains my solutions to various problems from __LeetCode__. It 
 | 🟥 Hard    | 0           |
 ---
 
- 
-# 📝 Problem Links
+# <div align='center'>📝 Problem Links</div>
 
 ### 🔹 Easy Problems
 --- 
