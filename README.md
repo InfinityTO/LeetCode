@@ -22,7 +22,7 @@ This repository contains my solutions to various problems from __LeetCode__. It 
 --- 
 | No | Problem Name | Solution Link |
 |---|-------------|---------------|
-| 1 | 217-Contains-Duplicate | [Solution](../Easy/217-Contains-Duplicate) |
+| 1 | 217-Contains-Duplicate | [Solution](./Easy/217-Contains-Duplicate) |
 
 ### 🔹 Medium Problems
 ---
