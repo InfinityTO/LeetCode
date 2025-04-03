@@ -23,6 +23,8 @@ This repository contains my solutions to various problems from __LeetCode__. It 
 | No | Problem Name | Solution Link |
 |---|-------------|---------------|
 | 1 | 217-Contains-Duplicate | [Solution](./Easy/217-Contains-Duplicate) |
+| 2 | 242-Valid-Anagram | [Solution](./Easy/242-Valid-Anagram) |
+
 
 ### 🔹 Medium Problems
 ---
