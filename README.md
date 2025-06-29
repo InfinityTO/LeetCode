@@ -8,7 +8,7 @@ This repository contains my solutions to various problems from __LeetCode__. It 
 
 | Difficulty | Total Solved |
 |------------|-------------|
-| 🟩 Easy    | 3          |
+| 🟩 Easy    | 2          |
 | 🟨 Medium  | 0           |
 | 🟥 Hard    | 0           |
 ---
